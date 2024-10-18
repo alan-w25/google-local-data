@@ -10,4 +10,6 @@ The business_ingestion.ipynb contains code to take a business.json file from the
 
 In the zipped data folder, there will already be examples in the data/ingested folder of these resulting files as well as examples of the actual raw json files,
 specifically from Pennsylvania local reviews. In this case, the meta-Pennsylvania.json has the business data and the review-Pennsylvania_10.json holds a subset of all the reviews in pennsylvania.
-The full review dataset may require greater processing power.
+The full review dataset may require greater processing power. <br><br>
+
+The raw data files themselves are too large to be committed so included are the end dataframes for the Pennsylvania subset.
